@@ -44,7 +44,7 @@ export class FoodService {
         favorite: false,
         origins: ['italy'],
         stars: 4.5,
-        imageUrl: '/assets/images/foods/food-1.jpg',
+        imageUrl: '../assets/images/foods/food-1.jpg',
         tags: ['FastFood', 'Pizza', 'Lunch'],
       },
       {
@@ -55,7 +55,7 @@ export class FoodService {
         favorite: true,
         origins: ['persia', 'middle east', 'china'],
         stars: 4.7,
-        imageUrl: '/assets/images/foods/food-2.jpg',
+        imageUrl: '../assets/images/foods/food-2.jpg',
         tags: ['SlowFood', 'Lunch'],
       },
       {
@@ -66,7 +66,7 @@ export class FoodService {
         favorite: false,
         origins: ['germany', 'us'],
         stars: 3.5,
-        imageUrl: '/assets/images/foods/food-3.jpg',
+        imageUrl: '../assets/images/foods/food-3.jpg',
         tags: ['FastFood', 'Hamburger'],
       },
       {
@@ -77,7 +77,7 @@ export class FoodService {
         favorite: true,
         origins: ['belgium', 'france'],
         stars: 3.3,
-        imageUrl: '/assets/images/foods/food-4.jpg',
+        imageUrl: '../assets/images/foods/food-4.jpg',
         tags: ['FastFood', 'Fry'],
       },
       {
@@ -88,7 +88,7 @@ export class FoodService {
         favorite: false,
         origins: ['india', 'asia'],
         stars: 3.0,
-        imageUrl: '/assets/images/foods/food-5.jpg',
+        imageUrl: '../assets/images/foods/food-5.jpg',
         tags: ['SlowFood', 'Soup'],
       },
       {
@@ -99,7 +99,7 @@ export class FoodService {
         favorite: false,
         origins: ['italy'],
         stars: 4.0,
-        imageUrl: '/assets/images/foods/food-6.jpg',
+        imageUrl: '../assets/images/foods/food-6.jpg',
         tags: ['FastFood', 'Pizza', 'Lunch'],
       },
     ]
